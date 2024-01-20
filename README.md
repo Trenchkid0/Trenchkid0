@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caesario Arya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I really passionate in web development</h3>
 
 - 🌱 I’m currently learning **React Typescript,Springboot**
 
