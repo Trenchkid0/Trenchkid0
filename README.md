@@ -4,7 +4,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trenchkid0&label=Profile%20views&color=0e75b6&style=flat" alt="trenchkid0" /> </p>
-
+- 🌍  I'm based in East Jakarta
 - 🌱 I’m currently learning **React Typescript,Springboot**
 
 - 👨‍💻 All of my projects are available at [https://myprofile-porto.vercel.app/](https://myprofile-porto.vercel.app/)
