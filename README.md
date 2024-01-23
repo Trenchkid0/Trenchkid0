@@ -4,12 +4,16 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trenchkid0&label=Profile%20views&color=0e75b6&style=flat" alt="trenchkid0" /> </p>
-- 🌍  I'm based in East Jakarta
+
 - 🌱 I’m currently learning **React Typescript,Springboot**
+  
+- 🌍  I'm based in East Jakarta
 
 - 👨‍💻 All of my projects are available at [https://myprofile-porto.vercel.app/](https://myprofile-porto.vercel.app/)
 
 - 💬 Ask me about **React,Next,Springboot**
+  
+- 🚀  I'm currently internship on [PROSIA](https://prosia.co.id/)
 
 - 📫 How to reach me **caesarioarya288@gmail.com**
 
