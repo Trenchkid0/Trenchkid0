@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **React,Next,Springboot**
   
-- 🚀  I'm currently internship on [PROSIA](https://prosia.co.id/)
-
 - 📫 How to reach me **caesarioarya288@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
